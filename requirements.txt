@@ -15,7 +15,7 @@ hyperlink==19.0.0
 idna==2.8
 img2pdf==0.3.3
 incremental==17.5.0
-lxml==4.3.4
+lxml==4.6.2
 mysqlclient==1.4.2.post1
 parsel==1.5.1
 pdfkit==0.6.1
